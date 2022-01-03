@@ -1,5 +1,5 @@
 # Machine Learning Course Tasks
-##### [CIE 417] Machine Learning Course Offered in Fall 2021
+##### [CIE 417] Machine Learning Course Offered in Fall 2021 @ Zewail City
 
 | **Lab Number** | **Task Type** | **Datasets** | **File Name** 
 |:----------|:---------------------------------|:------------------------------|:--------------------------------|
