@@ -1,4 +1,4 @@
-# Machine Learning Course Implementations
+# Machine Learning Course Tasks
 ##### [CIE 417] Machine Learning Course Offered in Fall 2021
 
 | **Lab Number** | **Task Type** | **Datasets** | **File Name** 
